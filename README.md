@@ -31,6 +31,8 @@ var ying1shou1kuan3 = 100.00;  //应收款
 
 https://github.com/program-in-chinese
 
+https://www.v2ex.com/t/480738
+
 
 
 

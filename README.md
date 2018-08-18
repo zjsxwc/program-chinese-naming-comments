@@ -12,7 +12,7 @@ function zwffm中文方法名() {}
 
 ```
 
-这个方法适用于大部分支持中文命名的主流语言，比如PHP、Java、JavaScript、Golang、Groovy等
+这个方法适用于大部分支持中文命名的主流语言，比如PHP、Java、JavaScript、Golang、Groovy、Objective-C等
 
 #### 对于不支持中文命名的编程语言
 
